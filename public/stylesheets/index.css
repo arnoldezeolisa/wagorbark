@@ -1,0 +1,31 @@
+.container {
+    margin: auto;
+    width: 75%;
+
+}
+.container h1{
+    color: #0c0804;
+    font-family: 'Galada', cursive;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+.container p{
+    color: #0c0804;
+    font-family: 'Galada', cursive;
+    text-align: center;
+    font-size: 30px;
+    text-shadow: -1px 0 red, 0 1px red, 1px 0 red, 0 -1px red;
+}
+
+.container p a{
+    color: red;
+    padding-top: 12px;
+    width: 200px;
+    height: 50px;
+    font-size: 20px;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+body {
+    background: url(https://www.pets4homes.co.uk/images/articles/1333/large/can-dogs-have-a-litter-from-two-different-sires-52f4d4502e1ba.jpg);
+    background-size: cover;
+    background-position: center auto; 
+}
